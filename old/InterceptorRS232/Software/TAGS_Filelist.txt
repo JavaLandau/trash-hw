@@ -1,0 +1,15 @@
+main.c
+source\stm8s_clk.c
+source\stm8s_flash.c
+source\stm8s_gpio.c
+source\stm8s_itc.c
+source\stm8s_optionbytes.c
+source\stm8s_tim.c
+stm8_interrupt_vector.c
+source\bits_operations.h
+source\stm8_types.h
+c:\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\mods0.h
+source\stm8s_clk.h
+source\stm8s_gpio.h
+source\stm8s_itc.h
+source\stm8s_tim.h

@@ -1,0 +1,369 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ADC2_IRQHandler	stm8_interrupt_vector.c	138;"	function	signature:(void)
+ARR	source\stm8s_tim.h	18;"	member	struct:_TIMType
+AWU_IRQHandler	stm8_interrupt_vector.c	30;"	function	signature:(void)
+BIF	source\stm8s_tim.c	88;"	macro	file:
+BREAK_LEN_BIT	main.c	7;"	macro	file:
+CC1IF	source\stm8s_tim.c	94;"	macro	file:
+CC2IF	source\stm8s_tim.c	93;"	macro	file:
+CC3IF	source\stm8s_tim.c	92;"	macro	file:
+CC4IF	source\stm8s_tim.c	91;"	macro	file:
+CHANGE_BIT	source\bits_operations.h	7;"	macro
+CHANGE_REG	source\bits_operations.h	26;"	macro
+CHANGE_REG_BIT	source\bits_operations.h	17;"	macro
+CLK_CANCCR	source\stm8s_clk.c	17;"	macro	file:
+CLK_CCOR	source\stm8s_clk.c	15;"	macro	file:
+CLK_CKDIVR	source\stm8s_clk.c	12;"	macro	file:
+CLK_CMSR	source\stm8s_clk.c	9;"	macro	file:
+CLK_CSSR	source\stm8s_clk.c	14;"	macro	file:
+CLK_ECKR	source\stm8s_clk.c	8;"	macro	file:
+CLK_HSITRIMR	source\stm8s_clk.c	18;"	macro	file:
+CLK_ICKR	source\stm8s_clk.c	7;"	macro	file:
+CLK_IRQHandler	stm8_interrupt_vector.c	35;"	function	signature:(void)
+CLK_PCKENR1	source\stm8s_clk.c	13;"	macro	file:
+CLK_PCKENR2	source\stm8s_clk.c	16;"	macro	file:
+CLK_SWCR	source\stm8s_clk.c	11;"	macro	file:
+CLK_SWIMCCR	source\stm8s_clk.c	19;"	macro	file:
+CLK_SWR	source\stm8s_clk.c	10;"	macro	file:
+COMIF	source\stm8s_tim.c	90;"	macro	file:
+COUNT_LEN	main.c	8;"	macro	file:
+DUL	source\stm8s_flash.c	28;"	macro	file:
+EOP	source\stm8s_flash.c	29;"	macro	file:
+ERASE	source\stm8s_flash.c	17;"	macro	file:
+EXTI0_IRQHandler	stm8_interrupt_vector.c	40;"	function	signature:(void)
+EXTI1_IRQHandler	stm8_interrupt_vector.c	45;"	function	signature:(void)
+EXTI2_IRQHandler	stm8_interrupt_vector.c	50;"	function	signature:(void)
+EXTI3_IRQHandler	stm8_interrupt_vector.c	55;"	function	signature:(void)
+EXTI4_IRQHandler	stm8_interrupt_vector.c	60;"	function	signature:(void)
+ErrorHandler	main.c	34;"	prototype	file:	signature:(void)
+ErrorHandler	main.c	92;"	function	signature:(void)
+FALSE	source\stm8_types.h	11;"	macro
+FHWU	source\stm8s_clk.c	24;"	macro	file:
+FIRST_HWR_KEY	source\stm8s_flash.c	33;"	macro	file:
+FLASH_CR1	source\stm8s_flash.c	5;"	macro	file:
+FLASH_CR2	source\stm8s_flash.c	6;"	macro	file:
+FLASH_DUKR	source\stm8s_flash.c	12;"	macro	file:
+FLASH_FPR	source\stm8s_flash.c	8;"	macro	file:
+FLASH_IAPSR	source\stm8s_flash.c	10;"	macro	file:
+FLASH_NCR2	source\stm8s_flash.c	7;"	macro	file:
+FLASH_NFPR	source\stm8s_flash.c	9;"	macro	file:
+FLASH_PUKR	source\stm8s_flash.c	11;"	macro	file:
+FPRG	source\stm8s_flash.c	18;"	macro	file:
+FUNC_ERROR	source\stm8_types.h	6;"	macro
+FUNC_HEAP_MEM_ERROR	source\stm8_types.h	8;"	macro
+FUNC_INVALID_PARAM	source\stm8_types.h	7;"	macro
+FUNC_OK	source\stm8_types.h	5;"	macro
+Flash_IRQHandler	stm8_interrupt_vector.c	148;"	function	signature:(void)
+FuncCallback	source\stm8s_gpio.h	33;"	member	struct:_GPIOType
+FuncCallback	source\stm8s_tim.h	15;"	member	struct:_TIMType
+GET_BIT	source\bits_operations.h	13;"	macro
+GET_REG	source\bits_operations.h	28;"	macro
+GET_REG_BIT	source\bits_operations.h	24;"	macro
+GPIOMode	source\stm8s_gpio.h	11;"	typedef	typeref:enum:_GPIOMode
+GPIOPort	source\stm8s_gpio.h	28;"	typedef	typeref:enum:_GPIOPort
+GPIOSpeed	source\stm8s_gpio.h	16;"	typedef	typeref:enum:_GPIOSpeed
+GPIOType	source\stm8s_gpio.h	37;"	typedef	typeref:struct:_GPIOType
+GPIO_FLOATING_INPUT	source\stm8s_gpio.h	7;"	enumerator	enum:_GPIOMode
+GPIO_INPUT_WITH_PULLUP	source\stm8s_gpio.h	8;"	enumerator	enum:_GPIOMode
+GPIO_OUTPUT_HIGH	source\stm8s_gpio.h	40;"	macro
+GPIO_OUTPUT_LOW	source\stm8s_gpio.h	39;"	macro
+GPIO_OUTPUT_PSEUDO_OPEN_DRAIN	source\stm8s_gpio.h	9;"	enumerator	enum:_GPIOMode
+GPIO_OUTPUT_PUSHPULL	source\stm8s_gpio.h	10;"	enumerator	enum:_GPIOMode
+GPIO_PORT_A	source\stm8s_gpio.h	19;"	enumerator	enum:_GPIOPort
+GPIO_PORT_B	source\stm8s_gpio.h	20;"	enumerator	enum:_GPIOPort
+GPIO_PORT_C	source\stm8s_gpio.h	21;"	enumerator	enum:_GPIOPort
+GPIO_PORT_D	source\stm8s_gpio.h	22;"	enumerator	enum:_GPIOPort
+GPIO_PORT_E	source\stm8s_gpio.h	23;"	enumerator	enum:_GPIOPort
+GPIO_PORT_F	source\stm8s_gpio.h	24;"	enumerator	enum:_GPIOPort
+GPIO_PORT_G	source\stm8s_gpio.h	25;"	enumerator	enum:_GPIOPort
+GPIO_PORT_H	source\stm8s_gpio.h	26;"	enumerator	enum:_GPIOPort
+GPIO_PORT_I	source\stm8s_gpio.h	27;"	enumerator	enum:_GPIOPort
+GPIO_SPEED_10MHZ	source\stm8s_gpio.h	15;"	enumerator	enum:_GPIOSpeed
+GPIO_SPEED_2MHZ	source\stm8s_gpio.h	14;"	enumerator	enum:_GPIOSpeed
+HSEEN	source\stm8s_clk.c	29;"	macro	file:
+HSERDY	source\stm8s_clk.c	30;"	macro	file:
+HSE_SELECT	source\stm8s_clk.c	39;"	macro	file:
+HSIEN	source\stm8s_clk.c	22;"	macro	file:
+HSIRDY	source\stm8s_clk.c	23;"	macro	file:
+HSI_SELECT	source\stm8s_clk.c	37;"	macro	file:
+HVOFF	source\stm8s_flash.c	27;"	macro	file:
+HwrIntFunc	source\stm8_types.h	22;"	typedef
+I2C_IRQHandler	stm8_interrupt_vector.c	123;"	function	signature:(void)
+Instance	source\stm8s_tim.h	14;"	member	struct:_TIMType
+LSIEN	source\stm8s_clk.c	25;"	macro	file:
+LSIRDY	source\stm8s_clk.c	26;"	macro	file:
+LSI_SELECT	source\stm8s_clk.c	38;"	macro	file:
+Mode	source\stm8s_gpio.h	31;"	member	struct:_GPIOType
+NERASE	source\stm8s_flash.c	23;"	macro	file:
+NFPRG	source\stm8s_flash.c	24;"	macro	file:
+NOPT	source\stm8s_flash.c	21;"	macro	file:
+NOPT1	source\stm8s_optionbytes.c	7;"	macro	file:
+NOPT2	source\stm8s_optionbytes.c	9;"	macro	file:
+NOPT3	source\stm8s_optionbytes.c	11;"	macro	file:
+NOPT4	source\stm8s_optionbytes.c	13;"	macro	file:
+NOPT5	source\stm8s_optionbytes.c	15;"	macro	file:
+NOPT6	source\stm8s_optionbytes.c	17;"	macro	file:
+NOPT7	source\stm8s_optionbytes.c	19;"	macro	file:
+NOPTBL	source\stm8s_optionbytes.c	21;"	macro	file:
+NPRG	source\stm8s_flash.c	25;"	macro	file:
+NULL	source\stm8_types.h	15;"	macro
+NUM_PIN_FOR_PORT	source\stm8s_gpio.c	60;"	macro	file:
+NWPRG	source\stm8s_flash.c	22;"	macro	file:
+NonHandledInterrupt	stm8_interrupt_vector.c	17;"	function	signature:(void)
+NumPin	source\stm8s_gpio.h	35;"	member	struct:_GPIOType
+NumPort	source\stm8s_gpio.h	36;"	member	struct:_GPIOType
+OPT	source\stm8s_flash.c	15;"	macro	file:
+OPT0	source\stm8s_optionbytes.c	5;"	macro	file:
+OPT1	source\stm8s_optionbytes.c	6;"	macro	file:
+OPT2	source\stm8s_optionbytes.c	8;"	macro	file:
+OPT3	source\stm8s_optionbytes.c	10;"	macro	file:
+OPT4	source\stm8s_optionbytes.c	12;"	macro	file:
+OPT5	source\stm8s_optionbytes.c	14;"	macro	file:
+OPT6	source\stm8s_optionbytes.c	16;"	macro	file:
+OPT7	source\stm8s_optionbytes.c	18;"	macro	file:
+OPTBL	source\stm8s_optionbytes.c	20;"	macro	file:
+PARITY_EVEN	main.c	13;"	macro	file:
+PARITY_NONE	main.c	12;"	macro	file:
+PARITY_ODD	main.c	14;"	macro	file:
+PA_CR1	source\stm8s_gpio.c	9;"	macro	file:
+PA_CR2	source\stm8s_gpio.c	10;"	macro	file:
+PA_DDR	source\stm8s_gpio.c	8;"	macro	file:
+PA_IDR	source\stm8s_gpio.c	7;"	macro	file:
+PA_ODR	source\stm8s_gpio.c	6;"	macro	file:
+PB_CR1	source\stm8s_gpio.c	15;"	macro	file:
+PB_CR2	source\stm8s_gpio.c	16;"	macro	file:
+PB_DDR	source\stm8s_gpio.c	14;"	macro	file:
+PB_IDR	source\stm8s_gpio.c	13;"	macro	file:
+PB_IDR	stm8_interrupt_vector.c	6;"	macro	file:
+PB_ODR	source\stm8s_gpio.c	12;"	macro	file:
+PC_CR1	source\stm8s_gpio.c	21;"	macro	file:
+PC_CR2	source\stm8s_gpio.c	22;"	macro	file:
+PC_DDR	source\stm8s_gpio.c	20;"	macro	file:
+PC_IDR	source\stm8s_gpio.c	19;"	macro	file:
+PC_ODR	source\stm8s_gpio.c	18;"	macro	file:
+PD_CR1	source\stm8s_gpio.c	27;"	macro	file:
+PD_CR2	source\stm8s_gpio.c	28;"	macro	file:
+PD_DDR	source\stm8s_gpio.c	26;"	macro	file:
+PD_IDR	source\stm8s_gpio.c	25;"	macro	file:
+PD_ODR	source\stm8s_gpio.c	24;"	macro	file:
+PE_CR1	source\stm8s_gpio.c	33;"	macro	file:
+PE_CR2	source\stm8s_gpio.c	34;"	macro	file:
+PE_DDR	source\stm8s_gpio.c	32;"	macro	file:
+PE_IDR	source\stm8s_gpio.c	31;"	macro	file:
+PE_ODR	source\stm8s_gpio.c	30;"	macro	file:
+PF_CR1	source\stm8s_gpio.c	39;"	macro	file:
+PF_CR2	source\stm8s_gpio.c	40;"	macro	file:
+PF_DDR	source\stm8s_gpio.c	38;"	macro	file:
+PF_IDR	source\stm8s_gpio.c	37;"	macro	file:
+PF_ODR	source\stm8s_gpio.c	36;"	macro	file:
+PG_CR1	source\stm8s_gpio.c	45;"	macro	file:
+PG_CR2	source\stm8s_gpio.c	46;"	macro	file:
+PG_DDR	source\stm8s_gpio.c	44;"	macro	file:
+PG_IDR	source\stm8s_gpio.c	43;"	macro	file:
+PG_ODR	source\stm8s_gpio.c	42;"	macro	file:
+PH_CR1	source\stm8s_gpio.c	51;"	macro	file:
+PH_CR2	source\stm8s_gpio.c	52;"	macro	file:
+PH_DDR	source\stm8s_gpio.c	50;"	macro	file:
+PH_IDR	source\stm8s_gpio.c	49;"	macro	file:
+PH_ODR	source\stm8s_gpio.c	48;"	macro	file:
+PI_CR1	source\stm8s_gpio.c	57;"	macro	file:
+PI_CR2	source\stm8s_gpio.c	58;"	macro	file:
+PI_DDR	source\stm8s_gpio.c	56;"	macro	file:
+PI_IDR	source\stm8s_gpio.c	55;"	macro	file:
+PI_ODR	source\stm8s_gpio.c	54;"	macro	file:
+PRG	source\stm8s_flash.c	19;"	macro	file:
+PUL	source\stm8s_flash.c	30;"	macro	file:
+Prescaler	source\stm8s_tim.h	17;"	member	struct:_TIMType
+REC_BAUDRATE	main.c	17;"	macro	file:
+REC_PROCESS	main.c	21;"	macro	file:
+REC_SEARCH_MIDDLE	main.c	20;"	macro	file:
+REC_SEARCH_STANDBY	main.c	18;"	macro	file:
+REC_SEARCH_STARTBIT	main.c	19;"	macro	file:
+REGAH	source\stm8s_clk.c	27;"	macro	file:
+RESET	source\bits_operations.h	4;"	macro
+RESET_BIT	source\bits_operations.h	9;"	macro
+RESET_REG	source\bits_operations.h	32;"	macro
+RESET_REG_BIT	source\bits_operations.h	20;"	macro
+SECOND_HWR_KEY	source\stm8s_flash.c	34;"	macro	file:
+SET	source\bits_operations.h	5;"	macro
+SET_BIT	source\bits_operations.h	11;"	macro
+SET_REG	source\bits_operations.h	30;"	macro
+SET_REG_BIT	source\bits_operations.h	22;"	macro
+SPI_IRQHandler	stm8_interrupt_vector.c	75;"	function	signature:(void)
+STANDBY_TRESHOLD	main.c	9;"	macro	file:
+STATUS_FAIL	main.c	27;"	macro	file:
+STATUS_INVALID	main.c	25;"	macro	file:
+STATUS_PROCESS	main.c	28;"	macro	file:
+STATUS_RELIABLE	main.c	26;"	macro	file:
+STATUS_REPLY	main.c	24;"	macro	file:
+SWBSY	source\stm8s_clk.c	32;"	macro	file:
+SWEN	source\stm8s_clk.c	33;"	macro	file:
+SWIEN	source\stm8s_clk.c	34;"	macro	file:
+SWIF	source\stm8s_clk.c	35;"	macro	file:
+Speed	source\stm8s_gpio.h	32;"	member	struct:_GPIOType
+TIF	source\stm8s_tim.c	89;"	macro	file:
+TIM1	source\stm8s_tim.h	7;"	enumerator	enum:_TIMTypeObj
+TIM1Capture_IRQHandler	stm8_interrupt_vector.c	86;"	function	signature:(void)
+TIM1Struct	source\stm8s_tim.c	101;"	variable
+TIM1Update_IRQHandler	stm8_interrupt_vector.c	81;"	function	signature:(void)
+TIM1_ARRH	source\stm8s_tim.c	24;"	macro	file:
+TIM1_ARRL	source\stm8s_tim.c	25;"	macro	file:
+TIM1_BKR	source\stm8s_tim.c	35;"	macro	file:
+TIM1_CCER1	source\stm8s_tim.c	18;"	macro	file:
+TIM1_CCER2	source\stm8s_tim.c	19;"	macro	file:
+TIM1_CCMR1	source\stm8s_tim.c	14;"	macro	file:
+TIM1_CCMR2	source\stm8s_tim.c	15;"	macro	file:
+TIM1_CCMR3	source\stm8s_tim.c	16;"	macro	file:
+TIM1_CCMR4	source\stm8s_tim.c	17;"	macro	file:
+TIM1_CCR1H	source\stm8s_tim.c	27;"	macro	file:
+TIM1_CCR1L	source\stm8s_tim.c	28;"	macro	file:
+TIM1_CCR2H	source\stm8s_tim.c	29;"	macro	file:
+TIM1_CCR2L	source\stm8s_tim.c	30;"	macro	file:
+TIM1_CCR3H	source\stm8s_tim.c	31;"	macro	file:
+TIM1_CCR3L	source\stm8s_tim.c	32;"	macro	file:
+TIM1_CCR4H	source\stm8s_tim.c	33;"	macro	file:
+TIM1_CCR4L	source\stm8s_tim.c	34;"	macro	file:
+TIM1_CNTRH	source\stm8s_tim.c	20;"	macro	file:
+TIM1_CNTRL	source\stm8s_tim.c	21;"	macro	file:
+TIM1_CR1	source\stm8s_tim.c	6;"	macro	file:
+TIM1_CR2	source\stm8s_tim.c	7;"	macro	file:
+TIM1_DTR	source\stm8s_tim.c	36;"	macro	file:
+TIM1_EGR	source\stm8s_tim.c	13;"	macro	file:
+TIM1_ETR	source\stm8s_tim.c	9;"	macro	file:
+TIM1_IER	source\stm8s_tim.c	10;"	macro	file:
+TIM1_OISR	source\stm8s_tim.c	37;"	macro	file:
+TIM1_PSCRH	source\stm8s_tim.c	22;"	macro	file:
+TIM1_PSCRL	source\stm8s_tim.c	23;"	macro	file:
+TIM1_RCR	source\stm8s_tim.c	26;"	macro	file:
+TIM1_SMCR	source\stm8s_tim.c	8;"	macro	file:
+TIM1_SR1	source\stm8s_tim.c	11;"	macro	file:
+TIM1_SR2	source\stm8s_tim.c	12;"	macro	file:
+TIM2	source\stm8s_tim.h	8;"	enumerator	enum:_TIMTypeObj
+TIM2Capture_IRQHandler	stm8_interrupt_vector.c	97;"	function	signature:(void)
+TIM2Struct	source\stm8s_tim.c	102;"	variable
+TIM2Update_IRQHandler	stm8_interrupt_vector.c	91;"	function	signature:(void)
+TIM2_ARRH	source\stm8s_tim.c	52;"	macro	file:
+TIM2_ARRL	source\stm8s_tim.c	53;"	macro	file:
+TIM2_CCER1	source\stm8s_tim.c	47;"	macro	file:
+TIM2_CCER2	source\stm8s_tim.c	48;"	macro	file:
+TIM2_CCMR1	source\stm8s_tim.c	44;"	macro	file:
+TIM2_CCMR2	source\stm8s_tim.c	45;"	macro	file:
+TIM2_CCMR3	source\stm8s_tim.c	46;"	macro	file:
+TIM2_CCR1H	source\stm8s_tim.c	54;"	macro	file:
+TIM2_CCR1L	source\stm8s_tim.c	55;"	macro	file:
+TIM2_CCR2H	source\stm8s_tim.c	56;"	macro	file:
+TIM2_CCR2L	source\stm8s_tim.c	57;"	macro	file:
+TIM2_CCR3H	source\stm8s_tim.c	58;"	macro	file:
+TIM2_CCR3L	source\stm8s_tim.c	59;"	macro	file:
+TIM2_CNTRH	source\stm8s_tim.c	49;"	macro	file:
+TIM2_CNTRL	source\stm8s_tim.c	50;"	macro	file:
+TIM2_CR1	source\stm8s_tim.c	39;"	macro	file:
+TIM2_EGR	source\stm8s_tim.c	43;"	macro	file:
+TIM2_IER	source\stm8s_tim.c	40;"	macro	file:
+TIM2_PSCR	source\stm8s_tim.c	51;"	macro	file:
+TIM2_SR1	source\stm8s_tim.c	41;"	macro	file:
+TIM2_SR2	source\stm8s_tim.c	42;"	macro	file:
+TIM3	source\stm8s_tim.h	9;"	enumerator	enum:_TIMTypeObj
+TIM3Capture_IRQHandler	stm8_interrupt_vector.c	108;"	function	signature:(void)
+TIM3Struct	source\stm8s_tim.c	103;"	variable
+TIM3Update_IRQHandler	stm8_interrupt_vector.c	102;"	function	signature:(void)
+TIM3_ARRH	source\stm8s_tim.c	72;"	macro	file:
+TIM3_ARRL	source\stm8s_tim.c	73;"	macro	file:
+TIM3_CCER1	source\stm8s_tim.c	68;"	macro	file:
+TIM3_CCMR1	source\stm8s_tim.c	66;"	macro	file:
+TIM3_CCMR2	source\stm8s_tim.c	67;"	macro	file:
+TIM3_CCR1H	source\stm8s_tim.c	74;"	macro	file:
+TIM3_CCR1L	source\stm8s_tim.c	75;"	macro	file:
+TIM3_CCR2H	source\stm8s_tim.c	76;"	macro	file:
+TIM3_CCR2L	source\stm8s_tim.c	77;"	macro	file:
+TIM3_CNTRH	source\stm8s_tim.c	69;"	macro	file:
+TIM3_CNTRL	source\stm8s_tim.c	70;"	macro	file:
+TIM3_CR1	source\stm8s_tim.c	61;"	macro	file:
+TIM3_EGR	source\stm8s_tim.c	65;"	macro	file:
+TIM3_IER	source\stm8s_tim.c	62;"	macro	file:
+TIM3_PSCR	source\stm8s_tim.c	71;"	macro	file:
+TIM3_SR1	source\stm8s_tim.c	63;"	macro	file:
+TIM3_SR2	source\stm8s_tim.c	64;"	macro	file:
+TIM4	source\stm8s_tim.h	10;"	enumerator	enum:_TIMTypeObj
+TIM4_ARR	source\stm8s_tim.c	85;"	macro	file:
+TIM4_CNTR	source\stm8s_tim.c	83;"	macro	file:
+TIM4_CR1	source\stm8s_tim.c	79;"	macro	file:
+TIM4_EGR	source\stm8s_tim.c	82;"	macro	file:
+TIM4_IER	source\stm8s_tim.c	80;"	macro	file:
+TIM4_IRQHandler	stm8_interrupt_vector.c	143;"	function	signature:(void)
+TIM4_PSCR	source\stm8s_tim.c	84;"	macro	file:
+TIM4_SR	source\stm8s_tim.c	81;"	macro	file:
+TIMType	source\stm8s_tim.h	19;"	typedef	typeref:struct:_TIMType
+TIMTypeObj	source\stm8s_tim.h	11;"	typedef	typeref:enum:_TIMTypeObj
+TLI_IRQHandler	stm8_interrupt_vector.c	25;"	function	signature:(void)
+TRUE	source\stm8_types.h	12;"	macro
+UART1RX_IRQHandler	stm8_interrupt_vector.c	118;"	function	signature:(void)
+UART1TX_IRQHandler	stm8_interrupt_vector.c	113;"	function	signature:(void)
+UART3RX_IRQHandler	stm8_interrupt_vector.c	133;"	function	signature:(void)
+UART3TX_IRQHandler	stm8_interrupt_vector.c	128;"	function	signature:(void)
+UART_LINE_LENGTH	main.c	30;"	macro	file:
+UIF	source\stm8s_tim.c	95;"	macro	file:
+UserData	source\stm8s_gpio.h	34;"	member	struct:_GPIOType
+UserData	source\stm8s_tim.h	16;"	member	struct:_TIMType
+WPRG	source\stm8s_flash.c	16;"	macro	file:
+WR_PG_DIS	source\stm8s_flash.c	31;"	macro	file:
+_GPIOMode	source\stm8s_gpio.h	6;"	enum
+_GPIOPort	source\stm8s_gpio.h	18;"	enum
+_GPIOSpeed	source\stm8s_gpio.h	13;"	enum
+_GPIOType	source\stm8s_gpio.h	30;"	struct
+_TIMType	source\stm8s_tim.h	13;"	struct
+_TIMTypeObj	source\stm8s_tim.h	6;"	enum
+__BITS_OPERATIONS__	source\bits_operations.h	2;"	macro
+__MODS0__	c:\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\mods0.h	11;"	macro
+__STM8S_CLK__	source\stm8s_clk.h	2;"	macro
+__STM8S_GPIO__	source\stm8s_gpio.h	2;"	macro
+__STM8S_ITC__	source\stm8s_itc.h	2;"	macro
+__STM8S_TIM__	source\stm8s_tim.h	2;"	macro
+__STM8_TYPES__	source\stm8_types.h	2;"	macro
+_stext	stm8_interrupt_vector.c	154;"	prototype	file:
+_vectab	stm8_interrupt_vector.c	156;"	variable
+beCANRX_IRQHandler	stm8_interrupt_vector.c	65;"	function	signature:(void)
+beCANTX_IRQHandler	stm8_interrupt_vector.c	70;"	function	signature:(void)
+interrupt_handler	stm8_interrupt_vector.c	14;"	member	struct:interrupt_vector	file:
+interrupt_handler_t	stm8_interrupt_vector.c	10;"	typedef	file:
+interrupt_instruction	stm8_interrupt_vector.c	13;"	member	struct:interrupt_vector	file:
+interrupt_vector	stm8_interrupt_vector.c	12;"	struct	file:
+main	main.c	36;"	function
+pTIM1IntFunc	source\stm8s_tim.c	97;"	variable
+pTIM2IntFunc	source\stm8s_tim.c	98;"	variable
+pTIM3IntFunc	source\stm8s_tim.c	99;"	variable
+prv_stm8s_GPIO_CheckMode	source\stm8s_gpio.c	137;"	function	signature:(GPIOMode Mode)
+prv_stm8s_GPIO_CheckMode	source\stm8s_gpio.c	65;"	prototype	file:	signature:(GPIOMode Mode)
+prv_stm8s_GPIO_CheckPort	source\stm8s_gpio.c	148;"	function	signature:(GPIOPort Port)
+prv_stm8s_GPIO_CheckPort	source\stm8s_gpio.c	64;"	prototype	file:	signature:(GPIOPort Port)
+prv_stm8s_GPIO_CheckSpeed	source\stm8s_gpio.c	129;"	function	signature:(GPIOSpeed Speed)
+prv_stm8s_GPIO_CheckSpeed	source\stm8s_gpio.c	66;"	prototype	file:	signature:(GPIOSpeed Speed)
+stm8s_CLK_SetHSEMasterClock	source\stm8s_clk.c	41;"	function	signature:(void)
+stm8s_CLK_SetHSEMasterClock	source\stm8s_clk.h	6;"	prototype	signature:(void)
+stm8s_Flash_OptionBytesDisable	source\stm8s_flash.c	59;"	function	signature:(void)
+stm8s_Flash_OptionBytesEnable	source\stm8s_flash.c	36;"	function	signature:(void)
+stm8s_GPIO_Init	source\stm8s_gpio.c	90;"	function	signature:(GPIOType* GPIODef)
+stm8s_GPIO_Init	source\stm8s_gpio.h	42;"	prototype	signature:(GPIOType* GPIODef)
+stm8s_GPIO_Set	source\stm8s_gpio.c	68;"	function	signature:(GPIOPort NumPort, char NumPin, char GPIOValue)
+stm8s_GPIO_Set	source\stm8s_gpio.h	43;"	prototype	signature:(GPIOPort NumPort, char NumPin, char GPIOValue)
+stm8s_ITC_InterruptsEnable	source\stm8s_itc.c	4;"	function	signature:(void)
+stm8s_ITC_InterruptsEnable	source\stm8s_itc.h	4;"	prototype	signature:(void)
+stm8s_OptionBytes_SetFlashWait	source\stm8s_optionbytes.c	23;"	function	signature:(char WaitState)
+stm8s_TIM1_UpdateInterrupt	source\stm8s_tim.c	211;"	function	signature:(void)
+stm8s_TIM1_UpdateInterrupt	source\stm8s_tim.h	26;"	prototype	signature:(void)
+stm8s_TIM2_UpdateInterrupt	source\stm8s_tim.c	219;"	function	signature:(void)
+stm8s_TIM2_UpdateInterrupt	source\stm8s_tim.h	27;"	prototype	signature:(void)
+stm8s_TIM3_UpdateInterrupt	source\stm8s_tim.c	227;"	function	signature:(void)
+stm8s_TIM3_UpdateInterrupt	source\stm8s_tim.h	28;"	prototype	signature:(void)
+stm8s_TIM_Init	source\stm8s_tim.c	105;"	function	signature:(TIMType* TIMDef)
+stm8s_TIM_Init	source\stm8s_tim.h	22;"	prototype	signature:(TIMType* TIMDef)
+stm8s_TIM_Start	source\stm8s_tim.c	179;"	function	signature:(TIMType* TIMDef)
+stm8s_TIM_Start	source\stm8s_tim.h	23;"	prototype	signature:(TIMType* TIMDef)
+stm8s_TIM_Stop	source\stm8s_tim.c	195;"	function	signature:(TIMType* TIMDef)
+stm8s_TIM_Stop	source\stm8s_tim.h	24;"	prototype	signature:(TIMType* TIMDef)
+uint8_res	source\stm8_types.h	19;"	typedef

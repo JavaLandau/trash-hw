@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=interceptorrs232.stp
+Dependencies=
+[Options]
+ActiveProject=interceptorrs232
+ActiveConfig=Release
+AddSortedElements=1
